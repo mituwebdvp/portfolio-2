@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin:0px;
+}
+
+
+.background_clr {
+    background-color: rgba(169, 169, 169, 0.292);
+    width:600px;
+    text-align: center; 
+    padding:15px;
+    margin: 300px;
+    justify-content: center;
+    border: 1px solid black;
+}
+.font_size {
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+div .font_p {
+    font-size: 20px;
+}
+
+#color {
+    color:blue;
+}
+
+
+#snd_color {
+    color:rgb(255, 30, 30);
+}
+
+#trd_color {
+    color:darkgreen;
+}
